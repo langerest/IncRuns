@@ -1,0 +1,212 @@
+{
+  "0": {
+    "name": "Berry",
+    "health": "5",
+    "description": "+5 health when eaten",
+    "autoJobId": 0
+  },
+  "1": {
+    "name": "Cooked fish",
+    "health": "20",
+    "description": "+20 health when eaten",
+    "autoJobId": 3
+  },
+  "2": {
+    "name": "Apple",
+    "health": "35",
+    "description": "+35 health when eaten",
+    "autoJobId": 5
+  },
+  "3": {
+    "name": "Cooked rabbit",
+    "health": "60",
+    "description": "+60 health when eaten",
+    "autoJobId": 7
+  },
+  "4": {
+    "name": "Herring",
+    "health": "80",
+    "description": "+80 health when eaten",
+    "autoJobId": 8
+  },
+  "5": {
+    "name": "Bread",
+    "health": "100",
+    "description": "+100 health when eaten",
+    "autoJobId": 10
+  },
+  "6": {
+    "name": "Cake",
+    "health": "150",
+    "description": "+150 health when eaten",
+    "autoJobId": 12
+  },
+  "7": {
+    "name": "Cooked boar",
+    "health": "300",
+    "description": "+300 health when eaten",
+    "autoJobId": 14
+  },
+  "8": {
+    "name": "Cooked crab",
+    "health": "500",
+    "description": "+500 health when eaten",
+    "autoJobId": 16
+  },
+  "9": {
+    "name": "Coconut",
+    "health": "600",
+    "description": "+600 health when eaten",
+    "autoJobId": 17
+  },
+  "10": {
+    "name": "Banana",
+    "health": "800",
+    "description": "+800 health when eaten",
+    "autoJobId": 20
+  },
+  "11": {
+    "name": "Cooked goat",
+    "health": "1500",
+    "description": "+1500 health when eaten",
+    "autoJobId": 22
+  },
+  "12": {
+    "name": "Cooked vulture",
+    "health": "3000",
+    "description": "+3000 health when eaten",
+    "autoJobId": 24
+  },
+  "13": {
+    "name": "Moss",
+    "health": "4000",
+    "description": "+4000 health when eaten",
+    "autoJobId": 25
+  },
+  "14": {
+    "name": "Cooked eel",
+    "health": "5000",
+    "description": "+5000 health when eaten",
+    "autoJobId": 28
+  },
+  "15": {
+    "name": "Biscuit",
+    "health": "7500",
+    "description": "+7500 health when eaten",
+    "autoJobId": 31
+  },
+  "16": {
+    "name": "Orange",
+    "health": "10000",
+    "description": "+10000 health when eaten",
+    "autoJobId": 32
+  },
+  "17": {
+    "name": "Cooked lobster",
+    "health": "12500",
+    "description": "+12500 health when eaten",
+    "autoJobId": 34
+  },
+  "18": {
+    "name": "Pie",
+    "health": "15000",
+    "description": "+15000 health when eaten",
+    "autoJobId": 36
+  },
+  "19": {
+    "name": "Tomato",
+    "health": "20000",
+    "description": "+20000 health when eaten",
+    "autoJobId": 37
+  },
+  "20": {
+    "name": "Cooked shark",
+    "health": "50000",
+    "description": "+50000 health when eaten",
+    "autoJobId": 39
+  },
+  "21": {
+    "name": "Cooked pelican",
+    "health": "75000",
+    "description": "+75000 health when eaten",
+    "autoJobId": 41
+  },
+  "22": {
+    "name": "Soup",
+    "health": "100000",
+    "description": "+100000 health when drunk",
+    "autoJobId": 43
+  },
+  "23": {
+    "name": "Stew",
+    "health": "150000",
+    "description": "+150000 health when consumed",
+    "autoJobId": 45
+  },
+  "24": {
+    "name": "Cooked bull",
+    "health": "175000",
+    "description": "+175000 health when eaten",
+    "autoJobId": 47
+  },
+  "25": {
+    "name": "Cooked falcon",
+    "health": "200000",
+    "description": "+200000 health when eaten",
+    "autoJobId": 49
+  },
+  "26": {
+    "name": "Cooked seal",
+    "health": "250000",
+    "description": "+250000 health when eaten",
+    "autoJobId": 52
+  },
+  "27": {
+    "name": "Corncob",
+    "health": "300000",
+    "description": "+300000 health when eaten",
+    "autoJobId": 53
+  },
+  "28": {
+    "name": "Cooked koi",
+    "health": "500000",
+    "description": "+500000 health when eaten",
+    "autoJobId": 56
+  },
+  "29": {
+    "name": "Mushroom",
+    "health": "750000",
+    "description": "+750000 health when eaten",
+    "autoJobId": 57
+  },
+  "30": {
+    "name": "Cooked clam",
+    "health": "900000",
+    "description": "+900K health when eaten",
+    "autoJobId": 64
+  },
+  "31": {
+    "name": "Honey",
+    "health": "1100000",
+    "description": "+1.1M health when eaten",
+    "autoJobId": 67
+  },
+  "32": {
+    "name": "Portobello",
+    "health": "1250000",
+    "description": "+1.25M health when eaten",
+    "autoJobId": 68
+  },
+  "33": {
+    "name": "Mixed salad",
+    "health": "1500000",
+    "description": "+1.50M health when eaten",
+    "autoJobId": 60
+  },
+  "34": {
+    "name": "Packed meal",
+    "health": "2500000",
+    "description": "+2.50M health when eaten",
+    "autoJobId": 61
+  }
+}

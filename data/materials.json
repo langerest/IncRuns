@@ -1,0 +1,206 @@
+{
+  "0": {
+    "name": "Wood",
+    "description": "Used for construction",
+    "autoJobId": 1
+  },
+  "1": {
+    "name": "Raw fish",
+    "description": "Yuck, perhaps it's edible when cooked",
+    "isFoodResource": true,
+    "autoJobId": 2
+  },
+  "2": {
+    "name": "Stone",
+    "description": "Used for construction",
+    "autoJobId": 4
+  },
+  "3": {
+    "name": "Dead rabbit",
+    "description": "Not for raw consumption",
+    "isFoodResource": true,
+    "autoJobId": 6
+  },
+  "4": {
+    "name": "Grain",
+    "description": "Useful for baking",
+    "isFoodResource": true,
+    "autoJobId": 9
+  },
+  "5": {
+    "name": "Copper",
+    "description": "Used for construction",
+    "autoJobId": 11
+  },
+  "6": {
+    "name": "Dead boar",
+    "description": "Not for raw consumption",
+    "isFoodResource": true,
+    "autoJobId": 13
+  },
+  "7": {
+    "name": "Hide",
+    "description": "Used for construction",
+    "autoJobId": 13
+  },
+  "8": {
+    "name": "Raw crab",
+    "description": "Can be cooked",
+    "isFoodResource": true,
+    "autoJobId": 15
+  },
+  "9": {
+    "name": "Cocowood",
+    "description": "Used for construction",
+    "autoJobId": 18
+  },
+  "10": {
+    "name": "Iron",
+    "description": "Used for construction",
+    "autoJobId": 19
+  },
+  "11": {
+    "name": "Dead goat",
+    "description": "Not for raw consumption",
+    "isFoodResource": true,
+    "autoJobId": 21
+  },
+  "12": {
+    "name": "Raw vulture",
+    "description": "Tastes somewhat like very tough chicken when cooked",
+    "isFoodResource": true,
+    "autoJobId": 23
+  },
+  "13": {
+    "name": "Gemstone",
+    "description": "A rare resource used for construction"
+  },
+  "14": {
+    "name": "Clay",
+    "description": "Used for construction",
+    "autoJobId": 26
+  },
+  "15": {
+    "name": "Raw eel",
+    "description": "Slippery, but edible when cooked",
+    "isFoodResource": true,
+    "autoJobId": 27
+  },
+  "16": {
+    "name": "Citrus wood",
+    "description": "Used for construction",
+    "autoJobId": 29
+  },
+  "17": {
+    "name": "Dough",
+    "description": "Used for baking",
+    "isFoodResource": true,
+    "autoJobId": 30
+  },
+  "18": {
+    "name": "Raw lobster",
+    "description": "Should be cooked before consumption",
+    "isFoodResource": true,
+    "autoJobId": 33
+  },
+  "19": {
+    "name": "Silver coin",
+    "description": "A local currency that can probably be spent"
+  },
+  "20": {
+    "name": "Cooked egg",
+    "description": "It's for the children. Eating it would be very rude",
+    "autoJobId": 35
+  },
+  "21": {
+    "name": "Raw shark",
+    "description": "Remove teeth before cooking",
+    "isFoodResource": true,
+    "autoJobId": 38
+  },
+  "22": {
+    "name": "Dead pelican",
+    "description": "Can be cooked",
+    "isFoodResource": true,
+    "autoJobId": 40
+  },
+  "23": {
+    "name": "Vegetable",
+    "description": "It has roots, leaves and a hard center. Honestly, you can't really tell what sort of vegetable this is",
+    "autoJobId": 42
+  },
+  "24": {
+    "name": "Liana",
+    "description": "A specific type of vine, far sturdier than most",
+    "autoJobId": 44
+  },
+  "25": {
+    "name": "Salvaged wood",
+    "description": "Salvaged from old ships. Used for construction",
+    "autoJobId": 46
+  },
+  "26": {
+    "name": "Bull meat",
+    "isFoodResource": true,
+    "description": "Can be cooked"
+  },
+  "27": {
+    "name": "Dead falcon",
+    "description": "Can be cooked",
+    "isFoodResource": true,
+    "autoJobId": 48
+  },
+  "28": {
+    "name": "Limestone",
+    "description": "Used for construction",
+    "autoJobId": 50
+  },
+  "29": {
+    "name": "Raw seal",
+    "description": "Can be cooked",
+    "isFoodResource": true,
+    "autoJobId": 51
+  },
+  "30": {
+    "name": "Magma block",
+    "description": "Used for construction",
+    "autoJobId": 54
+  },
+  "31": {
+    "name": "Raw koi carp",
+    "description": "Colorful and cookable",
+    "isFoodResource": true,
+    "autoJobId": 55
+  },
+  "32": {
+    "name": "Coal lump",
+    "description": "Used to ignite fires",
+    "autoJobId": 58
+  },
+  "33": {
+    "name": "Wooden chip",
+    "description": "A simple coin used for trading during the trade fair",
+    "autoJobId": 59
+  },
+  "34": {
+    "name": "Steel",
+    "description": "Used for construction",
+    "autoJobId": 62
+  },
+  "35": {
+    "name": "Gollum clam",
+    "description": "A thick shell, with something edible inside",
+    "isFoodResource": true,
+    "autoJobId": 63
+  },
+  "36": {
+    "name": "Moldy wood",
+    "description": "Not in the best shape, but it should be viable for construction",
+    "autoJobId": 65
+  },
+  "37": {
+    "name": "Titan stone",
+    "description": "This can probably be used for constructions other than titans too",
+    "autoJobId": 66
+  }
+}

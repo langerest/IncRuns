@@ -1,0 +1,50 @@
+{
+  "0": {
+    "name": "Farming",
+    "icon": "fa-wheat"
+  },
+  "1": {
+    "name": "Woodcutting",
+    "icon": "fa-axe"
+  },
+  "2": {
+    "name": "Construction",
+    "icon": "fa-hammer"
+  },
+  "3": {
+    "name": "Agility",
+    "icon": "fa-running"
+  },
+  "4": {
+    "name": "Fishing",
+    "icon": "fa-fish"
+  },
+  "5": {
+    "name": "Cooking",
+    "icon": "fa-hat-chef"
+  },
+  "6": {
+    "name": "Digging",
+    "icon": "fa-shovel"
+  },
+  "7": {
+    "name": "Combat",
+    "icon": "fa-swords"
+  },
+  "8": {
+    "name": "Hunting",
+    "icon": "fa-bow-arrow"
+  },
+  "9": {
+    "name": "Sailing",
+    "icon": "fa-anchor"
+  },
+  "10": {
+    "name": "Social",
+    "icon": "fa-comments"
+  },
+  "11": {
+    "name": "Hourglass",
+    "icon": "fa-hourglass-half"
+  }
+}
