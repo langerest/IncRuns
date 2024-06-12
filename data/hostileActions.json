@@ -1,0 +1,42 @@
+{
+  "0": {
+    "id": 0,
+    "enemy": 0,
+    "name": "Titan arrow",
+    "requiredProgress": "35000",
+    "completionDamage": "5000000",
+    "completionSpeedIncrease": "1.05",
+    "bossId": 0,
+    "bossPhases": [
+      1
+    ],
+    "tooltip": "The titan started to fire arrows at you from a distance!"
+  },
+  "1": {
+    "id": 1,
+    "enemy": 1,
+    "name": "Falling debris",
+    "requiredProgress": "5000",
+    "completionDamage": "1000000",
+    "completionSpeedIncrease": "1.01",
+    "bossId": 0,
+    "bossPhases": [
+      3,
+      4
+    ],
+    "tooltip": "The vault has started to collapse!"
+  },
+  "2": {
+    "id": 2,
+    "enemy": 0,
+    "name": "Emergency repair",
+    "requiredProgress": "500",
+    "completionBossHealing": 0.1,
+    "completionSpeedIncrease": "0.9925000000000002",
+    "bossId": 0,
+    "bossPhases": [
+      4
+    ],
+    "tooltip": "The titan appears to have triggered some internal emergency-mode, causing a bright light to come from behind its chestplate"
+  }
+}

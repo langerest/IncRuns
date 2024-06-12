@@ -1,0 +1,31 @@
+{
+  "0": {
+    "name": "Stone Titan",
+    "phases": {
+      "0": {
+        "health": 100,
+        "storyId": 0
+      },
+      "1": {
+        "health": 80,
+        "storyId": 1
+      },
+      "2": {
+        "storyId": 2
+      },
+      "3": {
+        "health": 40,
+        "storyId": 3
+      },
+      "4": {
+        "health": 20,
+        "storyId": 4
+      },
+      "5": {
+        "health": 0.001,
+        "storyId": 5,
+        "shouldFinish": true
+      }
+    }
+  }
+}

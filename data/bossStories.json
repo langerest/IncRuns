@@ -1,0 +1,26 @@
+{
+  "0": {
+    "name": "",
+    "completedStory": ""
+  },
+  "1": {
+    "name": "Stone titan 80% health",
+    "completedStory": "After taking a notable amount of damage, the Titan appears to be staggered for a bit. That gives you the chance to finally look around a little better in the vault. You spot some sort of leftover construction site a little further in. Let's see if you can reach that before the Titan recovers!"
+  },
+  "2": {
+    "name": "Returned to titan",
+    "completedStory": "By returning to the titan, you've interrupted the arrow barrage. Instead the titan continues its melee sequence"
+  },
+  "3": {
+    "name": "Stone titan 40% health",
+    "completedStory": "The titan starts to tremble, almost as if it's somehow overheating. The sheer size of it causes what feels like an earthquake. While that doesn't directly harm you, you notice the vault itself is slowly starting to collapse, and debris starts falling from the ceiling"
+  },
+  "4": {
+    "name": "Stone titan 20% health",
+    "completedStory": "It appears that the titan is going into some sort of emergency-mode, and a bright light starts shining from behind its chestplate, followed by a significant shockwave that causes one of the vault's walls to come down. That wall appears to contain some fungi growing on it! Your hourglass seems to respond to the light behind the titan's chestplate somehow, but you don't really have a chance to figure out why that is just now"
+  },
+  "5": {
+    "name": "Stone titan defeated",
+    "completedStory": "And down it goes! After some last slow movements, it smashes into the ground face-first, before it stops moving entirely. The impact covers the entire vault, or what's left of it, in a thick dust, but that should settle down quickly enough. You notice the chestplate dropping out of the titan now that it has hit the ground, and it appears to be inscribed on the inside"
+  }
+}

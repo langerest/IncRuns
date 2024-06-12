@@ -1,0 +1,26 @@
+{
+  "0": {
+    "0": {
+      "description": "<i class='far fa-swords'></i> combat type",
+      "scalingMultiplier": "1.025",
+      "showOnBossBar": true,
+      "bossBarIcon": "far fa-swords"
+    },
+    "1": {
+      "description": "<i class='far fa-running'></i> dodge type",
+      "scalingMultiplier": "1.05",
+      "showOnBossBar": true,
+      "bossBarIcon": "far fa-running"
+    },
+    "2": {
+      "description": "<i class='far fa-shield'></i> block type",
+      "scalingMultiplier": "1.075",
+      "showOnBossBar": true,
+      "bossBarIcon": "far fa-shield"
+    },
+    "6": {
+      "scalingMultiplier": "1.5",
+      "showOnBossBar": false
+    }
+  }
+}
