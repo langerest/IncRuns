@@ -1,0 +1,10 @@
+{
+  "0": {
+    "name": "Stone Titan",
+    "icon": "fa-skull"
+  },
+  "1": {
+    "name": "The vault itself",
+    "icon": "fa-archway"
+  }
+}
